@@ -1,0 +1,17 @@
+/* App.css content (your existing) */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+}
+.app-container { display: flex; height: 100vh; }
+.sidebar { width: 220px; background: #1e3a8a; color: white; padding: 20px; }
+.sidebar h2 { font-size: 20px; margin-bottom: 15px; }
+.sidebar button { display: block; background: transparent; border: none; color: white; font-size: 16px; padding: 10px 0; cursor: pointer; text-align: left; width: 100%; }
+.sidebar button:hover { background: #374151; border-radius: 4px; }
+.content { flex: 1; padding: 30px; background: white; overflow-y: auto; }
+h1 { color: #1e3a8a; margin-bottom: 20px; }
+.analyze-btn { background-color: #1e3a8a; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; }
+.analyze-btn:hover { background-color: #2563eb; }
