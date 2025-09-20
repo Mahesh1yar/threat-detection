@@ -122,6 +122,13 @@ threat-detection-backend/
    * Open [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
+In another powershell tab 
+---
+1. Open frontend folder
+    ```bash
+    npm i 
+    npm run dev   
+   ```
 
 ## 🕊️ Emotional Impact
 
