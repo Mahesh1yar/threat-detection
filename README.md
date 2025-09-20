@@ -93,7 +93,7 @@ threat-detection-backend/
 1. **Clone Repo**
 
    ```bash
-   git clone https://github.com/Mahesh1yar/threat-detection-backend.git
+   git clone https://github.com/Mahesh1yar/threat-detection.git
    cd threat-detection-backend
    ```
 
