@@ -52,8 +52,8 @@ Our system acts as a **guardian** that listens, analyzes, and flags these danger
 ```
 threat-detection-backend/
 │── app/
-│── main.py          # FastAPI app with Hugging Face pipeline
-│   ├── analysis.py      # Custom rule-based threat detection
+│     ├── analysis.py      # Custom rule-based threat detection
+│── main.py          # FastAPI app with Hugging Face pipeline   
 │── runtime.txt      #for python version python-3.11
 │── requirements.txt     # Python dependencies
 │── README.md            # Project documentation
