@@ -94,7 +94,7 @@ threat-detection-backend/
 
    ```bash
    git clone https://github.com/Mahesh1yar/threat-detection.git
-   cd threat-detection-backend
+   cd backend
    ```
 
 2. **Create Virtual Environment**
