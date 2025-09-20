@@ -145,7 +145,7 @@ By using this system, we ensure that even if sensitive data is spoken casually o
 
 ## 👥 Contributors
 
-* **Mahesh Subhankar Dev** – Developer & Innovator
+* **Team The Guardians** – Developer & Innovator
 
 ---
 
