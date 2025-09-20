@@ -54,7 +54,7 @@ threat-detection-backend/
 │── app/
 │── main.py          # FastAPI app with Hugging Face pipeline
 │   ├── analysis.py      # Custom rule-based threat detection
-│
+│── runtime.txt      #for python version python-3.11
 │── requirements.txt     # Python dependencies
 │── README.md            # Project documentation
 ```
